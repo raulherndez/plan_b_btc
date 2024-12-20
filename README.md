@@ -31,5 +31,6 @@ The Rust Programming Language (Official Book)
 Special Thanks
 Special thanks to Stefano Pellegrini for being my mentor
 
+site in x
 https://x.com/Plan_BitcoinBTC
 
