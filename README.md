@@ -1,47 +1,31 @@
 Tech Assignment - Bitcoin for Cubo Plus 2024
-This is a technical assignment for Bitcoin as part of Cubo Plus 2024, showcasing programming skills and understanding of the Bitcoin protocol and blockchain technology.
+This project demonstrates Bitcoin-related APIs built in Rust, simulating a real-world use case to showcase programming skills and blockchain knowledge.
 
-Description
-This project demonstrates Bitcoin-related APIs implemented in Rust, simulating a real-world use case for learning and practical purposes.
+How to Run
+Navigate to the project directory:
 
+bash
+cd api_creation  
+Build the project:
+
+bash
+cargo build  
+Run the project:
+
+bash
+cargo run  
+For optimized performance:
+
+bash
+cargo run --release  
 Requirements
-To run this project, you need:
+Rust and Cargo installed (Install Rust)
 
-Rust and Cargo installed (Install Rust).
-Basic knowledge of the command line.
-How to Compile and Run
-Follow these steps to set up and execute the project:
-
-Navigate to the Project Directory: Open your terminal and run:
-
-bash
-Copiar código
-cd api_creation
-Compile the Project: Build the project using Cargo:
-
-bash
-Copiar código
-cargo build
-Run the Project: Once compiled, execute the following to start the application:
-
-bash
-Copiar código
-cargo run
-Optional - Release Build: For optimized performance, you can run:
-
-bash
-Copiar código
-cargo run --release
 Additional Resources
 For further learning and setup, consult the following resources:
+•	GitHub Authentication Guide
+•	The Rust Programming Language (Book)
 
-GitHub Authentication Guide
-The Rust Programming Language (Book)
-Notes
-Ensure all dependencies are properly listed in Cargo.toml.
-If you encounter issues during compilation, run:
-bash
-Copiar código
-cargo check
-This command verifies the code without building it.
 
+Special Thanks
+Special thanks to Stefano Pellegrini.
